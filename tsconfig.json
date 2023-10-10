@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "node",
+    "target": "esNext",
+    "module": "nodeNext",
     "allowJs": true,
     "declaration": true,
     "declarationMap": true,
